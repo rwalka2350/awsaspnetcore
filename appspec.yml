@@ -2,7 +2,7 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: C:\ExploringAspNetCore
+    destination: C:\projects\AWS\dotnetcorecicdex\awsaspnetcore
 hooks:
   ApplicationStop:
     - location: .\RemoveApp.ps1
