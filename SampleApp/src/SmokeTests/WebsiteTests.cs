@@ -16,7 +16,7 @@ namespace SmokeTests
         {
             using (var client = new HttpClient())
             {
-                var response = await client.GetStringAsync("http://localhost/");
+                var response = await client.GetStringAsync("http://localhost-not-a-real-host/");
 
                 Assert.Equal("Exploring ASP.NET Core with AWS.", response);
             }
