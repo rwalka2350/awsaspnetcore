@@ -1,4 +1,4 @@
-﻿sl C:\projects\AWS\dotnetcorecicdex\awsaspnetcore\SampleApp\src\SampleApp
+﻿Set-Location C:\projects\AWS\dotnetcorecicdex\awsaspnetcore\SampleApp\src\SampleApp
 
 # Restore the nuget references
 & "C:\Program Files\dotnet\dotnet.exe" restore
