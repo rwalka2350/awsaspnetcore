@@ -4,7 +4,7 @@ This repository goes along with a series of blogs discussing how to deploy ASP.N
 
 If you wish to discuss topics about ASP.NET Core on AWS feel free to open up an issue.
 
-## Posts in the series
+## Posts in the series - MAKING SOME >> !! CHANGES TO SEE WHATS GOING ON
 
 * [Exploring ASP.NET Core Part 2: Continuous Delivery](https://blogs.aws.amazon.com/net/post/Tx2EHIJAM9LIW8G)
 	* Build a continuous delivery system for ASP.NET Core using CodeDeploy and CodePipelines.
